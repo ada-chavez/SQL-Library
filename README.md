@@ -2,7 +2,7 @@
 Library database created with SQL Server Management Studio
 
 This project was created to help me (a first time user with SQL) practice some basic techniques using Server Management Studio.
-The details to the drill and project can be found [here] (..doc/SQL_DRILL.pdf)
+The details of the drill can be found at the [SQL_DRILL.pdf file] (https://github.com/ada-chavez/SQL-Library/blob/master/SQL_Drill.pdf)
 
 ## Built with
 
