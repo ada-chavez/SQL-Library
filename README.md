@@ -10,4 +10,4 @@ The details to the drill and project can be found [here] (..doc/SQL_DRILL.pdf)
 
 ## Authors
 
-- [Ada Chavez](https://www.adachavez.com)
+- [Ada Chavez](http://adachavez.com/)
